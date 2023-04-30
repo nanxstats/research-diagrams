@@ -6,6 +6,7 @@ A curated collection of diagrams from research papers in statistics, computation
 
 - [Highly accurate protein structure prediction with AlphaFold](#highly-accurate-protein-structure-prediction-with-alphafold)
 - [The general index of software engineering papers](#the-general-index-of-software-engineering-papers)
+- [Attention is all you need](#attention-is-all-you-need)
 
 ## Highly accurate protein structure prediction with AlphaFold
 
@@ -22,3 +23,11 @@ Source: <https://doi.org/10.1145/3524842.3528494>
 ![Dataset construction pipeline](figures/general-index-of-software-engineering-papers.png)
 
 Figure 1: Dataset construction pipeline.
+
+## Attention is all you need
+
+Source: <https://dl.acm.org/doi/10.5555/3295222.3295349>
+
+![The Transformer - model architecture](figures/attention-is-all-you-need.png)
+
+Figure 1: The Transformer - model architecture.
